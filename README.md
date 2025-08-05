@@ -186,3 +186,70 @@ Contributions are welcome! If you have any ideas, improvements, or new apps to a
 [![Star History Chart](https://api.star-history.com/svg?repos=Shubhamsaboo/awesome-llm-apps&type=Date)](https://star-history.com/#Shubhamsaboo/awesome-llm-apps&Date)
 
 🌟 **Don’t miss out on future updates! Star the repo now and be the first to know about new and exciting LLM apps with RAG and AI Agents.**
+
+
+1. Dự án này là gì?
+“Awesome LLM Apps” là một tập hợp các dự án và ứng dụng liên quan đến AI, đặc biệt là các mô hình ngôn ngữ lớn (LLM - Large Language Model) như GPT (OpenAI), Claude (Anthropic), Gemini (Google), cũng như các mô hình mã nguồn mở (ví dụ: DeepSeek, Qwen, Llama…).
+
+Repo này tổng hợp rất nhiều ứng dụng AI hay, đã được chọn lọc. Các ứng dụng này đều khai thác sức mạnh của LLM để giải quyết các vấn đề thực tế, từ các tác vụ đơn giản như tạo meme, phân tích dữ liệu, đến các hệ thống phức tạp như lập kế hoạch tài chính, chơi game tự động, trợ lý đa tác vụ, v.v.
+
+2. Bạn sẽ tìm thấy gì trong repo này?
+Repo chia ra nhiều nhóm ứng dụng khác nhau:
+
+AI Agents (Tác nhân AI): Các ứng dụng dùng AI để tự động hóa một tác vụ hoặc nhiều tác vụ.
+
+Multi-agent Teams: Nhiều AI cùng phối hợp để làm việc như một nhóm, ví dụ: đội tư vấn tài chính, nhóm tuyển dụng, nhóm thiết kế game,…
+
+Voice AI Agents: Ứng dụng AI điều khiển bằng giọng nói hoặc liên quan tới âm thanh, ví dụ: hướng dẫn viên du lịch, tổng đài hỗ trợ khách hàng, chuyển blog thành podcast,...
+
+MCP AI Agents: AI tích hợp với các công cụ như trình duyệt web, GitHub, Notion để tự động hóa các quy trình làm việc.
+
+RAG (Retrieval Augmented Generation): Các kỹ thuật kết hợp LLM với khả năng tìm kiếm thông tin ngoài để trả lời chính xác hơn.
+
+Ứng dụng với bộ nhớ (Memory): AI nhớ và sử dụng các thông tin đã tương tác trước đó.
+
+“Chat with X”: Chatbot AI trò chuyện với các nguồn dữ liệu như GitHub, Gmail, PDF, YouTube, tài liệu nghiên cứu,…
+
+Tutorials Fine-tuning: Hướng dẫn tinh chỉnh (fine-tune) các mô hình LLM.
+
+3. Mục đích của dự án?
+Khám phá: Giúp bạn tìm hiểu các ứng dụng thực tế của AI/LLM trong nhiều lĩnh vực khác nhau, từ lập trình, chăm sóc sức khỏe, tài chính, đến sáng tạo nội dung, giáo dục, giải trí,...
+
+Học hỏi: Các dự án đều có tài liệu rõ ràng, giúp bạn dễ dàng làm theo, chạy thử và hiểu cách xây dựng ứng dụng AI.
+
+Đóng góp: Khuyến khích cộng đồng tham gia bổ sung, cải tiến hoặc chia sẻ dự án mới.
+
+4. Cách sử dụng repo này (dành cho người mới)?
+Clone repo về máy:
+
+bash
+Sao chép
+Chỉnh sửa
+git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+Truy cập thư mục dự án mong muốn:
+Ví dụ:
+
+bash
+Sao chép
+Chỉnh sửa
+cd awesome-llm-apps/starter_ai_agents/ai_travel_agent
+Cài đặt thư viện phụ thuộc:
+
+bash
+Sao chép
+Chỉnh sửa
+pip install -r requirements.txt
+Làm theo hướng dẫn chi tiết trong từng thư mục dự án (README.md) để setup và chạy thử ứng dụng.
+
+5. Dành cho ai nên dùng dự án này?
+Lập trình viên AI, nhà phát triển ứng dụng muốn học hỏi, tham khảo ý tưởng thực tế hoặc xây dựng nhanh prototyp.
+
+Người mới học AI muốn xem các ví dụ thực tiễn, dễ làm theo, có minh họa rõ ràng.
+
+Cộng đồng yêu thích mã nguồn mở, thích khám phá và đóng góp vào các dự án AI mới.
+
+6. Cách đóng góp cho repo
+Nếu bạn có ý tưởng hoặc ứng dụng AI muốn chia sẻ, có thể tạo issue mới hoặc pull request trên GitHub. Hãy đảm bảo tuân theo cấu trúc dự án sẵn có và viết tài liệu hướng dẫn cho ứng dụng của mình.
+
+Tóm lại:
+Repo này như một “thư viện ứng dụng AI” – mỗi thư mục là một ứng dụng thực tế, tài liệu rõ ràng, dễ dùng, phù hợp cả với người mới và lập trình viên AI. Bạn chỉ cần chọn một dự án, làm theo hướng dẫn là có thể tự chạy được trên máy của mình!
